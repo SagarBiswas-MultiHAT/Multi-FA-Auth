@@ -13,6 +13,8 @@
 ![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/Multi-FA-Auth) 
 &nbsp;
 ![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/Multi-FA-Auth)
+&nbsp;
+[![Sponsor SagarBiswas-MultiHAT on Polar.sh](https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
 
 </div>
 
@@ -499,6 +501,15 @@ High-value checklist:
 4. Replace password hashing with bcrypt.
 5. Add tests for OTP expiry + attempt limits + backup code consumption.
 
+---
+
+## Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=for-the-badge&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://multihat.dev)
 
 
 
